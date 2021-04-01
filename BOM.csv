@@ -1,0 +1,17 @@
+"Qty";"Value";"Device";"Package";"Parts";"Description";"";
+"10";"";"TAC_SWITCHPTH";"TACTILE-PTH";"S1, S2, S3, S4, S5, S6, S7, S8, S9, S10";"Momentary Switch";"";
+"41";"0.1";"C-EU025-050X050";"C025-050X050";"C3, C4, C5, C6, C7, C8, C9, C10, C11, C12, C13, C14, C15, C16, C17, C18, C19, C20, C21, C22, C23, C24, C25, C26, C27, C28, C29, C30, C31, C32, C33, C34, C35, C36, C37, C38, C39, C40, C41, C42, C43";"CAPACITOR, European symbol";"";
+"1";"0.1";"CPOL-EUE5-8.5";"E5-8,5";"C2";"POLARIZED CAPACITOR, European symbol";"";
+"1";"0.33";"CPOL-EUE5-8.5";"E5-8,5";"C1";"POLARIZED CAPACITOR, European symbol";"";
+"1";"12v";"JACK-PLUG0";"SPC4077";"J1";"DC POWER JACK";"";
+"10";"1k";"R-EU_0207/7";"0207/7";"R1, R2, R3, R4, R5, R6, R7, R8, R9, R10";"RESISTOR, European symbol";"";
+"9";"3v3";"DUOLED-RG-A";"DUOLED-A-5MM";"LD1, LD2, LD3, LD4, LD5, LD6, LD7, LD8, LD9";"DUO LED";"";
+"3";"3v3";"LED5MM";"LED5MM";"LED1, LED2, LED3";"LED";"";
+"19";"4013N";"4013N";"DIL14";"IC2, IC3, IC4, IC5, IC6, IC7, IC8, IC9, IC10, IC11, IC12, IC13, IC14, IC15, IC16, IC17, IC18, IC19, IC40";"Dual D FLIP FLOP, set/reset";"";
+"5";"4070N";"4070N";"DIL14";"IC20, IC21, IC22, IC23, IC24";"Quad 2-input XOR";"";
+"5";"7404N";"7404N";"DIL14";"IC25, IC26, IC27, IC28, IC29";"Hex INVERTER";"";
+"4";"7432N";"7432N";"DIL14";"IC33, IC34, IC38, IC39";"Quad 2-input OR gate";"";
+"8";"74S11N";"74S11N";"DIL14";"IC30, IC31, IC32, IC35, IC36, IC37, IC41, IC42";"Triple 3-input AND gate";"";
+"1";"7805TV";"7805TV";"TO220V";"IC1";"Positive VOLTAGE REGULATOR";"";
+"1";"P1";"PINHD-1X9/90";"1X09/90";"JP1";"PIN HEADER";"";
+"1";"P2";"PINHD-1X9/90";"1X09/90";"JP2";"PIN HEADER";"";
